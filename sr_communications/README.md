@@ -1,6 +1,6 @@
-# communications
+# sr_communications
 
-ROS package for the communications with the drivers for the robots of the Social Robots Group.
+ROS package for the communications (semaphores and RS232) with the drivers for the robots of the Social Robots Group.
 
 ## LICENSE
 

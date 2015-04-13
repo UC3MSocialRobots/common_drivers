@@ -1,4 +1,4 @@
-# common_drivers
+# sr_common_drivers
 
 ROS metapackage for the common drivers for the robots of the Social Robots Group.
 
