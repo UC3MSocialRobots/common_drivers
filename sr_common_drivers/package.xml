@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-    <name>common_drivers</name>
+    <name>sr_common_drivers</name>
     <version>0.0.1</version>
     <description>
         common_drivers metapackage
@@ -29,7 +29,7 @@
     <!-- Dependencies can be catkin packages or system dependencies -->
     <buildtool_depend>catkin</buildtool_depend>
 
-    <run_depend>communications</run_depend>
+    <run_depend>sr_communications</run_depend>
 
 
     <!-- The export tag contains other, unspecified, tags -->

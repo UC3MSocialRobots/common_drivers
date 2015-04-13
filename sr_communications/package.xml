@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package format="2">
-    <name>communications</name>
+    <name>sr_communications</name>
     <version>0.0.1</version>
     <description>
-        communications
+        communications for the Social Robots robots
     </description>
 
     <!-- Author tags are optional, mutiple are allowed, one per tag -->
@@ -21,9 +21,9 @@
 
 
     <!-- Url tags are optional, but mutiple are allowed, one per tag -->
-    <url type="website">http://wiki.ros.org/communications</url>
-    <url type="bugtracker">https://github.com/UC3MSocialRobots/maggie_drivers/issues</url>
-    <url type="repository">https://github.com/UC3MSocialRobots/maggie_drivers.git</url>
+    <url type="website">http://wiki.ros.org/sr_communications</url>
+    <url type="bugtracker">https://github.com/UC3MSocialRobots/sr_common_drivers/issues</url>
+    <url type="repository">https://github.com/UC3MSocialRobots/sr_common_drivers.git</url>
 
 
     <!-- The *_depend tags are used to specify dependencies -->
