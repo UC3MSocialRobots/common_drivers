@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
     <name>sr_common_drivers</name>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
     <description>
         sr_common_drivers metapackage
     </description>
